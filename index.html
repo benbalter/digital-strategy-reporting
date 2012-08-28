@@ -1,0 +1,8 @@
+---
+layout: default
+---
+{% for page in site.posts %}
+<div id="{{ page.title | downcase | replace:" ","-" }}" class="step{% if page.slide %} slide{% endif%}" data-x="{{ page.x }}" data-y="{{ page.y }}" data-z="{{ page.z }}" scale="{{ page.scale }}" rotate="{{ page.rotate }}">
+{{ page.content }}
+</div>
+{% endfor %}

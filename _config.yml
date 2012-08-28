@@ -1,0 +1,15 @@
+title: Digital Strategy Reporting
+author: Benjamin J. Balter
+Description:
+auto: true
+server: true
+prose:
+  metadata: 
+    "_posts/": |
+      x: 
+      y:
+      z:
+      rotate:
+      scale:
+      slide:
+      
