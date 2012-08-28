@@ -3,6 +3,8 @@ author: Benjamin J. Balter
 Description:
 auto: true
 server: true
+safe: true
+pygments: true
 permalink: none
 prose:
   rooturl: "_posts"
