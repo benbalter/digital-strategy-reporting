@@ -17,7 +17,8 @@ Prior Art
 License
 -------
 
-Available under both MIT and GPL.
+* Code: GPL
+* Content: CC-BY-NC-SA
 
 How to Contribute
 -----------------
