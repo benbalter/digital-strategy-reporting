@@ -26,7 +26,7 @@ scale:
          "name":"Administration on Aging",
          "id":"AOA",
          "url":"http:\/\/www.aoa.gov\/"
-      },
+      }
    ]
 }
 
