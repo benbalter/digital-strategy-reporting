@@ -9,7 +9,7 @@ scale:
 
 [https://raw.github.com/gsa/digital-strategy/1/agencies.json](https://raw.github.com/gsa/digital-strategy/1/agencies.json)
 
-{% highlight json %}
+{% highlight %}
 {
     "name": "Foo"
 }
