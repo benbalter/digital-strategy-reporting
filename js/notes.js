@@ -4,7 +4,7 @@ jQuery( document ).ready( function($) {
 			
 			notes = $('.active').children('.notes');
 	
-			if ( notes.html().length > 0 ) 
+			if ( notes && notes.html().length > 0 ) 
 				console.log( notes.html() );
 		
 		});
