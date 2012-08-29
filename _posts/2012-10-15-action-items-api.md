@@ -32,7 +32,7 @@ scale:
                   { "label":"Completed", "value":"completed" }
                ]
             }
-         ],
+         ]
          "multiple":false
       }
    ]
