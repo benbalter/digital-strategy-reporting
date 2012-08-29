@@ -34,7 +34,7 @@ scale:
             }
          ],
          "multiple":false
-      },
+      }
    ]
 }
 {% endhighlight %}
