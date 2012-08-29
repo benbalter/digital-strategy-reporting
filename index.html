@@ -4,6 +4,6 @@ layout: default
 {% for page in site.posts %}
 <div id="{{ page.title | downcase | replace:" ","-" }}" class="step{% if page.slide %} slide{% endif%}" data-x="{{ page.x }}" data-y="{{ page.y }}" data-z="{{ page.z }}" scale="{{ page.scale }}" data-rotate-x="{{ page.rotate-x }}" data-rotate-y="{{ page.rotate-y }}" data-rotate-z="{{ page.rotate-z }}">
 {{ page.content }}
-<div class="notes">{{ page.notes }}</div>
+{% if page.notes %}<div class="notes">{{ page.notes }}</div>{% endif %}
 </div>
 {% endfor %}
