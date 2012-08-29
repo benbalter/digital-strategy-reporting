@@ -5,7 +5,7 @@ z: 1000
 rotate-y: 90
 ratate-x: 90
 scale:
-notes:
+notes: Two apps showing the power of APIs. Report agencies' progress on the digital strategy, and were built within days of the strategy's release.
 ---
 
 # Citizen-Driven Innovation

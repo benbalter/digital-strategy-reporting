@@ -4,6 +4,7 @@ y: 1000
 z: 7000
 rotate-y: 180
 scale:
+notes: Raw, action items pseudo-API that generator uses to make form and create XML/JSON files
 ---
 # Action Items API
 

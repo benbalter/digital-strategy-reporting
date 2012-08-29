@@ -4,6 +4,7 @@ y: 1000
 z: 12000
 rotate-y: 180
 scale:
+notes: With a list of all 1000x agency domains, and knowing each domain has a `/digitalstrategy.json` file, a developer could build a crawler, e.g., to find all APIs opened up as a result of the DGS, or to create a list of all agencies' open strategies, etc.
 ---
 
 # Agency List API

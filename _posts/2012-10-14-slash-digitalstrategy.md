@@ -4,6 +4,7 @@ y: 1000
 z: 9000
 rotate-y: 180
 scale:
+notes: Where final files would live on the agency's web presense
 ---
 
 # Slash Digitalstrategy
