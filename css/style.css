@@ -53,3 +53,4 @@ img { max-height: 500px;  }
 #api-all-the-things img, #open-source-all-the-things img, #github-all-the-things img { width: 100%; }
 
 .photo-credit { font-size: 10px; }
+.presentation-link { position: absolute; bottom: 25px; left: 20px; font-size: 20px; }
