@@ -10,7 +10,7 @@ scale:
 
 [https://raw.github.com/gsa/digital-strategy/1/items.json](https://raw.github.com/gsa/digital-strategy/1/items.json)
 
-{% highlight json %}
+{% highlight javascript %}
 
 {
    "generator_version":"1.1",
