@@ -9,3 +9,7 @@ scale:
 # How We Got Here
 
 ![TPS Report](img/tps-report.jpeg)
+
+<div class="photo-credit" markdown="1">
+	\[photo via [facilitybikeclub](http://www.flickr.com/photos/facilitybikeclub/3197419294/lightbox/) ]
+</div>
