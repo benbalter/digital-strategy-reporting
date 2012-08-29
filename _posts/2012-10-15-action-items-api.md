@@ -9,10 +9,5 @@ scale:
 
 [https://raw.github.com/gsa/digital-strategy/1/agencies.json](https://raw.github.com/gsa/digital-strategy/1/agencies.json)
 
-{% highlight %}
-{
-    "name": "Foo"
-}
-{% endhighlight %}
 
 asdf
