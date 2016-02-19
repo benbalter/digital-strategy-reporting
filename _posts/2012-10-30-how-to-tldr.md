@@ -8,6 +8,6 @@ scale:
 
 # \[TL;DR\] 
 
-1. Go to <http://ben.balter.com/sandbox/digital-strategy-report-generator/>
+1. Go to <http://labs.data.gov/dashboard/digital-strategy/>
 2. Enter your agency's progress
 3. Give the zip file it generates to your geeks
